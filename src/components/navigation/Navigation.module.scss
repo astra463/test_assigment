@@ -1,0 +1,20 @@
+.navigation {
+
+}
+
+.links {
+  display: flex;
+  gap: 20px;
+  color: #131313;
+  list-style: none;
+}
+
+.link {
+  color: white;
+  font-size: 22px;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: skyblue;
+  padding: 10px;
+  border-radius: 20px;
+}

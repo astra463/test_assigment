@@ -1,0 +1,15 @@
+.header {
+  height: 10vh;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+  padding: 24px;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.logo {
+  object-fit: contain;
+  width: 40px;
+  height: 40px;
+}
